@@ -11,4 +11,5 @@ Team Members:
 - Ashna Shah,
 - Andy Ling,
 - Jeffrey Tvedt,
-- Alex Malladi
+- Alex Malladi,
+- Saanvi Peri
