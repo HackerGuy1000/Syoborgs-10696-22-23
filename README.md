@@ -2,12 +2,13 @@
 Syoborgs FTC programming team repository
 
 Team Members:
-- Tyler Philip
-- Chris Zapantis
-- Ivan Kwok
-- Chris Zapantis
-- Eliot Bih
-- Hohin Woo (Hinson)
-- Ashna Shah
-- Andy Ling
-- Jeffrey Tvedt
+- Tyler Philip,
+- Chris Zapantis,
+- Ivan Kwok,
+- Chris Kim,
+- Eliot Bih,
+- Hohin Woo (Hinson),
+- Ashna Shah,
+- Andy Ling,
+- Jeffrey Tvedt,
+- Alex Maladi
