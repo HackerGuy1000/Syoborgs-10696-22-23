@@ -1,16 +1,17 @@
 # Syoborgs-10696-22-23
 Syoborgs FTC programming team repository,
 
-Team Members:
-- Tyler Philip,
-- Chris Zapantis,
-- Ivan Kwok,
+Team Members (sorted by last name ABC order):
+
+- Elliot Bih,
 - Chris Kim,
-- Eliot Bih,
-- Hohin Woo (Hinson),
-- Ashna Shah,
+- Ivan Kwok,
 - Andy Ling,
-- Jeffrey Tvedt,
 - Alex Malladi,
 - Saanvi Peri,
-- Arjun Shah
+- Tyler Philip,
+- Arjun Shah,
+- Ashna Shah,
+- Jeffrey Tvedt
+- Hohin Woo (Hinson),
+- Chris Zapantis
