@@ -1,5 +1,5 @@
 # Syoborgs-10696-22-23
-Syoborgs FTC programming team repository
+Syoborgs FTC programming team repository,
 
 Team Members:
 - Tyler Philip,
@@ -12,4 +12,5 @@ Team Members:
 - Andy Ling,
 - Jeffrey Tvedt,
 - Alex Malladi,
-- Saanvi Peri
+- Saanvi Peri,
+- Arjun Shah
