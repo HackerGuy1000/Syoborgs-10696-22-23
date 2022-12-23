@@ -1,0 +1,6 @@
+Members:
+Chris Zapantis
+Darren Leung
+Tyler Philip
+Program Description:
+Computer Vision for robot using OpenFTC
