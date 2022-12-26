@@ -6,6 +6,7 @@ Team Members (sorted by last name ABC order):
 - Elliot Bih,
 - Chris Kim,
 - Ivan Kwok,
+- Darren Leung,
 - Andy Ling,
 - Alex Malladi,
 - Saanvi Peri,
