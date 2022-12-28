@@ -3,7 +3,7 @@ Syoborgs FTC programming team repository,
 
 Team Members (sorted by last name ABC order):
 
-- Elliot Bih,
+- Eliot Bih,
 - Chris Kim,
 - Ivan Kwok,
 - Darren Leung,
