@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+ext {
+    javaMainClass = 'org.example.Main'
+}
+
+application {
+    mainClassName = javaMainClass
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation 'org.openpnp:opencv:4.5.4-0'
+}
+
+test {
+    useJUnitPlatform()
+}
